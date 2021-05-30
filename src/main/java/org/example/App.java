@@ -15,6 +15,7 @@ public class App {
         // Store the scanner input into the String datatype that is quote
         System.out.println("What is the quote?");
         Scanner quoteInput = new Scanner(System.in);
+        // .nextLine() scans the string until a new line character (\n) is reached
         String quote = quoteInput.nextLine();
 
         // Repeat for the author
