@@ -1,8 +1,7 @@
+
 /*
  *  UCF COP3330 Summer 2021 Assignment 1 Solutions
  *  Copyright 2021 Gabriel Fernandez
- *  "Motivated" Practice Exercises
- *  Exercise 03 - Printing Quotes
  */
 
 package org.example;
